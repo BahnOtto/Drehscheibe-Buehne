@@ -1,6 +1,6 @@
 Copyright (c) 2025 BahnOtto
 
-Das Arduino Programm wurde zur DCC-Steuerung einer Fleischmann Drehscheibe mit Schrittmotor-Antrieb entwickelt.
+Das Repository enthält die zwei Arduino Programme Master und Slave für die Bühnen-Elekronik.
 
 Das Projekt wurde unter https://BahnOtto.de documentiert.
 
